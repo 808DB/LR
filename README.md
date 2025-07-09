@@ -1,9 +1,9 @@
-Discord bot for LeRepère | By 808.DB |
+[Discord bot for LeRepère | By 808.DB]
 
-Coded in : Py
+[Coded in Python.] 
 
-Discord for any questions : 212.808 | 808.212
+[ | Discord for any questions: 212.808 | 808.212 | ]
 
-[ This bot isn't a *Tokengrabber* or shits like that, fuck skids people who use that shit, that's make with heart, you can check the code, or use it for ur bots, that's why that's an OpenSource(OS) ]
+[ @ This bot isn’t some token grabber or shady crap. Fuck skids people who use that. Made with heart and fully open source — check the code, use it for your own bots if you need. I don’t tolerate skids or copycats. @ ]
 
-Bot asked by owner for his own server. i'll made it for free, if you need any request, i'll can do ur bot. Contact me on Discord if you need anything.
+[ | Requested by the owner for his server. I built it for free, but if you need a custom bot, hit me up on Discord. I’m here to help. | ]
